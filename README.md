@@ -160,3 +160,5 @@ Alternatively it is possible to add your own custom sizing method directly insid
 <sup> † </sup> <i>The **rightMostElement** option is the most reliable way of determining the page width. However, it does have a performance impact as it requires calculating the position of every element on the page. The **taggedElement** option provides much greater performance by limiting the number of elements that need their position checked.</i>
 
 <sup>*</sup> These methods can cause screen flicker in some browsers.
+
+# SWS Settings
