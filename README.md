@@ -92,7 +92,7 @@ Click here to view our demo: [Demo](https://swsdemo.parteiverkehr.de/?detach=tru
 
   
 
-If you want to filter the displayed Meeting Cards you can user serveral filter-parameters:
+If you want to filter the displayed Meeting Cards you can use serveral filter-parameters:
 
   
 
