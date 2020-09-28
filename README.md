@@ -1,6 +1,7 @@
 # SWS Settings
 
 
+# iFrame-Reziser
 ## Options
 
 The following options can be passed to iframe-resizer on the parent page.
