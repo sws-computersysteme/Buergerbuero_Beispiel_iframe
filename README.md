@@ -1,5 +1,21 @@
 # SWS Settings
 
+## Iframe
+
+## Footer 
+
+## Detach
+
+## Filters
+
+### Filter over ID
+
+### Filter over Type
+
+### Filter over Categories
+
+
+
 
 # iFrame-Reziser
 ## Options
