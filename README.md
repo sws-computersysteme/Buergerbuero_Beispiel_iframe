@@ -1,6 +1,22 @@
 # SWS Settings
 
+You can customize your iframe by adding certain query parameters to the source URL
+
 ## Iframe
+
+With the Iframe view of our Page, only the cards and the footer is displayed
+
+Example:
+```
+<div>
+<iframe id="sws_iframe" src="https://swsdemo.parteiverkehr.de/?iframe=true"></iframe>
+</div>
+```
+
+Demo: 
+
+https://swsdemo.parteiverkehr.de/?iframe=true - automatic!
+[Demo](https://swsdemo.parteiverkehr.de/?iframe=true)
 
 ## Footer 
 
