@@ -286,6 +286,7 @@ Click here to view our demo: [Demo](https://swsdemo.parteiverkehr.de/?iframe=tru
   
 
 # iFrame-Reziser
-
 We are using Iframe Resizer for this Project
+
+Copyright © 2013-20 David J. Bradshaw. Licensed under the MIT License.
 To see the Documentation click the follwoing Link: [Iframe-Resizer](https://github.com/davidjbradshaw/iframe-resizer/blob/master/README.md)
