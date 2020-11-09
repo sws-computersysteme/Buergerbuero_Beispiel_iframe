@@ -1,0 +1,47 @@
+$bg-color: white; /* Hintergrundfarbe*/
+$font-family: "Source Sans Pro" !important; /* Fontart */
+$font-color: black; /* Standardschriftfarbe */
+
+$scheduler-booked: #aac936;
+$scheduler-free: #31568C;
+
+$cards-bg-color: #31568C; /* Cards Hintergrundfarbe */
+$cards-font-color: white; /* Cards Schriftfarbe */
+$font-color-open: #88A429; /* Cards Schriftfarbe offen */
+$font-color-closed: red; /* Cards Schriftfarbe geschlossen */
+$font-color-taken: orange; /* Cards Schriftfarbe besetzt */
+$font-color-queue-open: white; /* Schriftfarbe Wartebereich offen*/
+$font-color-queue-taken: white; /* Schriftfarbe Wartebereich besetzt*/
+
+$button-primary-bg-color: #31568C !important; /* Primary-Button Hintergrundfarbe Default = #007BFF */
+$button-primary-font-color: white !important; /* Primary-Button Schriftfarbe Default = white */
+
+$button-success-bg-color: #aac936 !important; /* Success-Button Hintergrundfarbe Default = #5CB85C */
+$button-success-font-color: white !important; /* Success-Button Schriftfarbe Default = white */
+
+$button-info-bg-color: #aac936 !important; /* Info-Button Hintergrundfarbe Default = #17A2B8 */
+$button-info-font-color: white !important; /* Info-Button Schriftfarbe Default = white */
+
+$button-danger-bg-color: #DC3545 !important; /* Danger-Button Hintergrundfarbe Default = #DC3545 */
+$button-danger-font-color: white !important; /* Danger-Button Schriftfarbe Default = white */
+
+$button-dark-bg-color: #6c757d !important; /* Danger-Button Hintergrundfarbe Default = #DC3545 */
+$button-dark-font-color: white !important; /* Danger-Button Schriftfarbe Default = white */
+
+$button-secondary-bg-color: #6c757d !important; /* Danger-Button Hintergrundfarbe Default = #6c757d */
+$button-secondary-font-color: white !important; /* Danger-Button Schriftfarbe Default = white */
+
+$font-color-editdelete: white; /* Die Farbe der Edit und Delete-Buttons für die Admins */
+$font-color-editdelete-hover: lightgrey; /* Die Farbe der Edit und Delete-Buttons für die Admins */
+$font-color-lockalert: red; /* Die Farbe des Lock Room Alerts für die Admins */
+$font-color-lockalert-hover: #ff8080; /* Die Farbe des Lock Room Alerts für die Admins */
+
+$bg-color-meetingview: #C8C8C8;
+
+$font-color-meetinginformation: black;
+$bg-color-meetinginformation: #C8C8C8; /* Meeting Information Hintergrundfarbe Default = white*/
+
+$btn-settingsbar-open: #31568C;
+$btn-settingsbar-open-font: white;
+$bg-color-settingsbar: #F5F5F5; /* Settings Sidebar Backgroundcolor */
+$btn-settingsbar-close: #EBEBEB; /* Settings Sidebar Close Button und Border */
