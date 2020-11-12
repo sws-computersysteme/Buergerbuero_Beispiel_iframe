@@ -78,7 +78,7 @@ Example:
 
   
 
-Click here to view our demo: [Demo](https://swsdemo.parteiverkehr.de/?footer=false)
+Click here to view our demo: [Demo](https://swsdemo.parteiverkehr.de/?size=big)
 
   
 
