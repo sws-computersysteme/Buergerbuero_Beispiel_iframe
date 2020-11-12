@@ -53,6 +53,29 @@ Example:
 
 ```
 
+## Card Mode
+
+  
+With these filters, the size of the card is changed. The following options are available here:
+
+- default
+- medium
+- big
+
+  
+
+Example:
+
+```
+
+<div>
+
+<iframe id="sws_iframe" src="https://swsdemo.parteiverkehr.de/?size=big"></iframe>
+
+</div>
+
+```
+
   
 
 Click here to view our demo: [Demo](https://swsdemo.parteiverkehr.de/?footer=false)
